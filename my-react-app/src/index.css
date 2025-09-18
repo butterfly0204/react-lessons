@@ -1,9 +1,16 @@
 .student{
   font-family: Arial, Helvetica, sans-serif;
-  font-size:2em;
+  font-size:2.5em;
   padding: 10px;
-  border: 1px solid hsla(0, 0%, 0%, 0.8);
+  color: white;
+  background-color: teal;
+  border-radius: 10px;
 }
-.student p{
-  margin: 0;
+.login{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:2.5em;
+  padding: 10px;
+  color: white;
+  background-color: rgb(19, 0, 128);
+  border-radius: 10px;
 }
