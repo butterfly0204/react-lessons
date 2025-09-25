@@ -9,4 +9,4 @@ if(props.isLoggedIn){
 }
    
 
-export default UserGreeting
+export default UserGreeting 
