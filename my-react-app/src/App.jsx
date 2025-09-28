@@ -1,19 +1,9 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx';
-import Food from './Food.jsx';
-
-function App() {
-  
+import Student from './Student';
+function App(){
   return(
-    <>
-      <Header/>
-      <Food/>
-      <Footer/>
-    
-      </>
+    <Student/>
+
   );
-
-
 }
 
-export default App
+export default App;
