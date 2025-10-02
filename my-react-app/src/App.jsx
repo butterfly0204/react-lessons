@@ -1,9 +1,13 @@
-import Student from './Student';
+import UserGreeting from "./UserGreeting.jsx";
+
 function App(){
   return(
-    <Student/>
-
+    <>
+    <UserGreeting isLoggedIn ={false} username=" Mogaji Favour"/>
+    
+    </>
   );
 }
 
-export default App;
+export default App
+ 
